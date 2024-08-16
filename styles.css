@@ -1,7 +1,7 @@
 body
 {
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: 4em;
+    margin-right: 4em;
 }
 .no-indent
 {
@@ -11,19 +11,38 @@ body
     margin-top:0em;
     margin-bottom:0em;
 }
-.h1
+.indent
+{
+    text-align: justify;
+    font-size: 100%;
+    text-indent: 2em;
+    margin-top: 1em;
+}
+h1
 {
     color: rgb(8, 8, 137);
 }
-.h2
+h2
 {
- color:brown;
+ color:rgb(202, 27, 27);
 }
-.h3
+h3
 {
- color:rgb(97, 22, 168);
+ color:rgb(69, 8, 125);
 }
-.h4
+h4
 {
  color:rgb(148, 13, 136);
+}
+h5
+{
+    text-align: center;
+    color:rgb(19, 39, 224);
+    font-style: italic;
+    background-color: rgb(229, 229, 208);
+   
+}
+.f1
+{
+    text-align: center;
 }
