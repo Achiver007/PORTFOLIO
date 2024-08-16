@@ -1,0 +1,29 @@
+body
+{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.no-indent
+{
+    font-size: 100%;
+    text-align:justify;
+    text-indent:0em; 
+    margin-top:0em;
+    margin-bottom:0em;
+}
+.h1
+{
+    color: rgb(8, 8, 137);
+}
+.h2
+{
+ color:brown;
+}
+.h3
+{
+ color:rgb(97, 22, 168);
+}
+.h4
+{
+ color:rgb(148, 13, 136);
+}
