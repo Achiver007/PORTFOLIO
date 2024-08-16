@@ -2,5 +2,5 @@
 
 <br/>
 <h3> About Me </h3>
-<p>added projects nd  Basic Form|Need to add Css, Eduction Nd Experience</p>
+<p>added projects,Css nd  Basic Form|Need to add  Eduction Nd Experience</p>
 
